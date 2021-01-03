@@ -6,7 +6,7 @@ This page keeps records of all previous participants.
 # Participants on 2020-12-27
 |First name|Last name|
 |----------|---------|
-|||
+|J.|ZHANG|
 
 # Example
 |First name|Last name|
